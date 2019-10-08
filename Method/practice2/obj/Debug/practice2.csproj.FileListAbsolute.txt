@@ -1,0 +1,6 @@
+C:\Users\AM\source\repos\Method\practice2\bin\Debug\practice2.exe.config
+C:\Users\AM\source\repos\Method\practice2\bin\Debug\practice2.exe
+C:\Users\AM\source\repos\Method\practice2\bin\Debug\practice2.pdb
+C:\Users\AM\source\repos\Method\practice2\obj\Debug\practice2.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\Method\practice2\obj\Debug\practice2.exe
+C:\Users\AM\source\repos\Method\practice2\obj\Debug\practice2.pdb

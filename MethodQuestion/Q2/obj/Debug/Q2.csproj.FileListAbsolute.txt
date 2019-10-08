@@ -1,0 +1,6 @@
+C:\Users\AM\source\repos\MethodQuestion\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\MethodQuestion\Q2\bin\Debug\Q2.exe.config
+C:\Users\AM\source\repos\MethodQuestion\Q2\bin\Debug\Q2.exe
+C:\Users\AM\source\repos\MethodQuestion\Q2\bin\Debug\Q2.pdb
+C:\Users\AM\source\repos\MethodQuestion\Q2\obj\Debug\Q2.exe
+C:\Users\AM\source\repos\MethodQuestion\Q2\obj\Debug\Q2.pdb

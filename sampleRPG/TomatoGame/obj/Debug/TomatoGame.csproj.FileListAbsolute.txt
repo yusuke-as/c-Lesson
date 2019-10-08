@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\sampleRPG\TomatoGame\bin\Debug\TomatoGame.exe.config
+C:\Users\AM\source\repos\sampleRPG\TomatoGame\bin\Debug\TomatoGame.exe
+C:\Users\AM\source\repos\sampleRPG\TomatoGame\bin\Debug\TomatoGame.pdb
+C:\Users\AM\source\repos\sampleRPG\TomatoGame\obj\Debug\TomatoGame.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\sampleRPG\TomatoGame\obj\Debug\TomatoGame.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\sampleRPG\TomatoGame\obj\Debug\TomatoGame.exe
+C:\Users\AM\source\repos\sampleRPG\TomatoGame\obj\Debug\TomatoGame.pdb

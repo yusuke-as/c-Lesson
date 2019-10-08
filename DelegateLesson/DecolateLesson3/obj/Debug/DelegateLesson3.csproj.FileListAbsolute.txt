@@ -1,0 +1,6 @@
+C:\Users\AM\source\repos\DelegateLesson\DecolateLesson3\bin\Debug\DecolateLesson3.exe.config
+C:\Users\AM\source\repos\DelegateLesson\DecolateLesson3\bin\Debug\DecolateLesson3.exe
+C:\Users\AM\source\repos\DelegateLesson\DecolateLesson3\bin\Debug\DecolateLesson3.pdb
+C:\Users\AM\source\repos\DelegateLesson\DecolateLesson3\obj\Debug\DelegateLesson3.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\DelegateLesson\DecolateLesson3\obj\Debug\DecolateLesson3.exe
+C:\Users\AM\source\repos\DelegateLesson\DecolateLesson3\obj\Debug\DecolateLesson3.pdb

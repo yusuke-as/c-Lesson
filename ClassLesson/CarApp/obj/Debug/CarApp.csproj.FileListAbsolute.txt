@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\ClassLesson\CarApp\bin\Debug\CarApp.exe.config
+C:\Users\AM\source\repos\ClassLesson\CarApp\bin\Debug\CarApp.exe
+C:\Users\AM\source\repos\ClassLesson\CarApp\bin\Debug\CarApp.pdb
+C:\Users\AM\source\repos\ClassLesson\CarApp\obj\Debug\CarApp.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\ClassLesson\CarApp\obj\Debug\CarApp.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\ClassLesson\CarApp\obj\Debug\CarApp.exe
+C:\Users\AM\source\repos\ClassLesson\CarApp\obj\Debug\CarApp.pdb

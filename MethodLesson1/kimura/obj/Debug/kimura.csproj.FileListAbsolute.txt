@@ -1,0 +1,6 @@
+C:\Users\AM\source\repos\MethodLesson1\kimura\bin\Debug\kimura.exe.config
+C:\Users\AM\source\repos\MethodLesson1\kimura\bin\Debug\kimura.exe
+C:\Users\AM\source\repos\MethodLesson1\kimura\bin\Debug\kimura.pdb
+C:\Users\AM\source\repos\MethodLesson1\kimura\obj\Debug\kimura.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\MethodLesson1\kimura\obj\Debug\kimura.exe
+C:\Users\AM\source\repos\MethodLesson1\kimura\obj\Debug\kimura.pdb

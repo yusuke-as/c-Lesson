@@ -1,0 +1,6 @@
+C:\Users\AM\source\repos\RefLesson\RefPractice\bin\Debug\RefPractice.exe.config
+C:\Users\AM\source\repos\RefLesson\RefPractice\bin\Debug\RefPractice.exe
+C:\Users\AM\source\repos\RefLesson\RefPractice\bin\Debug\RefPractice.pdb
+C:\Users\AM\source\repos\RefLesson\RefPractice\obj\Debug\RefPractice.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\RefLesson\RefPractice\obj\Debug\RefPractice.exe
+C:\Users\AM\source\repos\RefLesson\RefPractice\obj\Debug\RefPractice.pdb

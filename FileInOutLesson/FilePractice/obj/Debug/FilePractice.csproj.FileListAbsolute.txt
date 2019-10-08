@@ -1,0 +1,6 @@
+C:\Users\AM\source\repos\FileInOutLesson\FilePractice\bin\Debug\FilePractice.exe.config
+C:\Users\AM\source\repos\FileInOutLesson\FilePractice\bin\Debug\FilePractice.exe
+C:\Users\AM\source\repos\FileInOutLesson\FilePractice\bin\Debug\FilePractice.pdb
+C:\Users\AM\source\repos\FileInOutLesson\FilePractice\obj\Debug\FilePractice.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\FileInOutLesson\FilePractice\obj\Debug\FilePractice.exe
+C:\Users\AM\source\repos\FileInOutLesson\FilePractice\obj\Debug\FilePractice.pdb

@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\ClassPractice\MushikingApp\bin\Debug\MushikingApp.exe.config
+C:\Users\AM\source\repos\ClassPractice\MushikingApp\bin\Debug\MushikingApp.exe
+C:\Users\AM\source\repos\ClassPractice\MushikingApp\bin\Debug\MushikingApp.pdb
+C:\Users\AM\source\repos\ClassPractice\MushikingApp\obj\Debug\MushikingApp.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\ClassPractice\MushikingApp\obj\Debug\MushikingApp.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\ClassPractice\MushikingApp\obj\Debug\MushikingApp.exe
+C:\Users\AM\source\repos\ClassPractice\MushikingApp\obj\Debug\MushikingApp.pdb

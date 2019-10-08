@@ -1,0 +1,6 @@
+C:\Users\AM\source\repos\Dictionary\Practice\bin\Debug\Practice.exe.config
+C:\Users\AM\source\repos\Dictionary\Practice\bin\Debug\Practice.exe
+C:\Users\AM\source\repos\Dictionary\Practice\bin\Debug\Practice.pdb
+C:\Users\AM\source\repos\Dictionary\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\Dictionary\Practice\obj\Debug\Practice.exe
+C:\Users\AM\source\repos\Dictionary\Practice\obj\Debug\Practice.pdb

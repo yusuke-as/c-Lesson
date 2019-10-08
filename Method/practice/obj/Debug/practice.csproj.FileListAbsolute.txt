@@ -1,0 +1,6 @@
+C:\Users\AM\source\repos\Method\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\Method\practice\bin\Debug\practice.exe.config
+C:\Users\AM\source\repos\Method\practice\bin\Debug\practice.exe
+C:\Users\AM\source\repos\Method\practice\bin\Debug\practice.pdb
+C:\Users\AM\source\repos\Method\practice\obj\Debug\practice.exe
+C:\Users\AM\source\repos\Method\practice\obj\Debug\practice.pdb

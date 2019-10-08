@@ -1,0 +1,6 @@
+C:\Users\AM\source\repos\DelegateLesson\DelegatePractice\bin\Debug\DelegatePractice.exe.config
+C:\Users\AM\source\repos\DelegateLesson\DelegatePractice\bin\Debug\DelegatePractice.exe
+C:\Users\AM\source\repos\DelegateLesson\DelegatePractice\bin\Debug\DelegatePractice.pdb
+C:\Users\AM\source\repos\DelegateLesson\DelegatePractice\obj\Debug\DelegatePractice.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\DelegateLesson\DelegatePractice\obj\Debug\DelegatePractice.exe
+C:\Users\AM\source\repos\DelegateLesson\DelegatePractice\obj\Debug\DelegatePractice.pdb

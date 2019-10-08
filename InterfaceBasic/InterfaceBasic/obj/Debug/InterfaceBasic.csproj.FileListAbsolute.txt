@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\InterfaceBasic\InterfaceBasic\obj\Debug\InterfaceBasic.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\InterfaceBasic\InterfaceBasic\obj\Debug\InterfaceBasic.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\InterfaceBasic\InterfaceBasic\bin\Debug\InterfaceBasic.exe.config
+C:\Users\AM\source\repos\InterfaceBasic\InterfaceBasic\bin\Debug\InterfaceBasic.exe
+C:\Users\AM\source\repos\InterfaceBasic\InterfaceBasic\bin\Debug\InterfaceBasic.pdb
+C:\Users\AM\source\repos\InterfaceBasic\InterfaceBasic\obj\Debug\InterfaceBasic.exe
+C:\Users\AM\source\repos\InterfaceBasic\InterfaceBasic\obj\Debug\InterfaceBasic.pdb

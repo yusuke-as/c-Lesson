@@ -1,0 +1,6 @@
+C:\Users\AM\source\repos\ExtendsLesson\TemplatePattern\bin\Debug\TemplatePattern.exe.config
+C:\Users\AM\source\repos\ExtendsLesson\TemplatePattern\bin\Debug\TemplatePattern.exe
+C:\Users\AM\source\repos\ExtendsLesson\TemplatePattern\bin\Debug\TemplatePattern.pdb
+C:\Users\AM\source\repos\ExtendsLesson\TemplatePattern\obj\Debug\TemplatePattern.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\ExtendsLesson\TemplatePattern\obj\Debug\TemplatePattern.exe
+C:\Users\AM\source\repos\ExtendsLesson\TemplatePattern\obj\Debug\TemplatePattern.pdb

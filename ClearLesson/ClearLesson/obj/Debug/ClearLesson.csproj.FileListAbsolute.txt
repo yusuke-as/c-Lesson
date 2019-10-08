@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\ClearLesson\ClearLesson\obj\Debug\ClearLesson.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\ClearLesson\ClearLesson\obj\Debug\ClearLesson.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\ClearLesson\ClearLesson\bin\Debug\ClearLesson.exe.config
+C:\Users\AM\source\repos\ClearLesson\ClearLesson\bin\Debug\ClearLesson.exe
+C:\Users\AM\source\repos\ClearLesson\ClearLesson\bin\Debug\ClearLesson.pdb
+C:\Users\AM\source\repos\ClearLesson\ClearLesson\obj\Debug\ClearLesson.exe
+C:\Users\AM\source\repos\ClearLesson\ClearLesson\obj\Debug\ClearLesson.pdb

@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\ExtendsLesson\ShootingGame\bin\Debug\ShootingGame.exe.config
+C:\Users\AM\source\repos\ExtendsLesson\ShootingGame\bin\Debug\ShootingGame.exe
+C:\Users\AM\source\repos\ExtendsLesson\ShootingGame\bin\Debug\ShootingGame.pdb
+C:\Users\AM\source\repos\ExtendsLesson\ShootingGame\obj\Debug\ShootingGame.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\ExtendsLesson\ShootingGame\obj\Debug\ShootingGame.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\ExtendsLesson\ShootingGame\obj\Debug\ShootingGame.exe
+C:\Users\AM\source\repos\ExtendsLesson\ShootingGame\obj\Debug\ShootingGame.pdb

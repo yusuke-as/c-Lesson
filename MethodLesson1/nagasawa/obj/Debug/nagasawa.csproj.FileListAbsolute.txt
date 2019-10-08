@@ -1,0 +1,6 @@
+C:\Users\AM\source\repos\MethodLesson1\nagasawa\bin\Debug\nagasawa.exe.config
+C:\Users\AM\source\repos\MethodLesson1\nagasawa\bin\Debug\nagasawa.exe
+C:\Users\AM\source\repos\MethodLesson1\nagasawa\bin\Debug\nagasawa.pdb
+C:\Users\AM\source\repos\MethodLesson1\nagasawa\obj\Debug\nagasawa.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\MethodLesson1\nagasawa\obj\Debug\nagasawa.exe
+C:\Users\AM\source\repos\MethodLesson1\nagasawa\obj\Debug\nagasawa.pdb

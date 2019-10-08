@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\ClassPractice\HumanApp\bin\Debug\HumanApp.exe.config
+C:\Users\AM\source\repos\ClassPractice\HumanApp\bin\Debug\HumanApp.exe
+C:\Users\AM\source\repos\ClassPractice\HumanApp\bin\Debug\HumanApp.pdb
+C:\Users\AM\source\repos\ClassPractice\HumanApp\obj\Debug\HumanApp.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\ClassPractice\HumanApp\obj\Debug\HumanApp.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\ClassPractice\HumanApp\obj\Debug\HumanApp.exe
+C:\Users\AM\source\repos\ClassPractice\HumanApp\obj\Debug\HumanApp.pdb

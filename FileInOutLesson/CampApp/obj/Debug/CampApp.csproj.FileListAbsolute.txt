@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\FileInOutLesson\CampApp\bin\Debug\CampApp.exe.config
+C:\Users\AM\source\repos\FileInOutLesson\CampApp\bin\Debug\CampApp.exe
+C:\Users\AM\source\repos\FileInOutLesson\CampApp\bin\Debug\CampApp.pdb
+C:\Users\AM\source\repos\FileInOutLesson\CampApp\obj\Debug\CampApp.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\FileInOutLesson\CampApp\obj\Debug\CampApp.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\FileInOutLesson\CampApp\obj\Debug\CampApp.exe
+C:\Users\AM\source\repos\FileInOutLesson\CampApp\obj\Debug\CampApp.pdb

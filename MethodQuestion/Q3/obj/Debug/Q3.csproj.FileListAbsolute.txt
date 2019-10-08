@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\MethodQuestion\Q3\obj\Debug\Q3.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\MethodQuestion\Q3\bin\Debug\Q3.exe.config
+C:\Users\AM\source\repos\MethodQuestion\Q3\bin\Debug\Q3.exe
+C:\Users\AM\source\repos\MethodQuestion\Q3\bin\Debug\Q3.pdb
+C:\Users\AM\source\repos\MethodQuestion\Q3\obj\Debug\Q3.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\MethodQuestion\Q3\obj\Debug\Q3.exe
+C:\Users\AM\source\repos\MethodQuestion\Q3\obj\Debug\Q3.pdb

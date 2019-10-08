@@ -1,0 +1,6 @@
+C:\Users\AM\source\repos\DelegateLesson\DelegateLesson2\bin\Debug\DelegateLesson2.exe.config
+C:\Users\AM\source\repos\DelegateLesson\DelegateLesson2\bin\Debug\DelegateLesson2.exe
+C:\Users\AM\source\repos\DelegateLesson\DelegateLesson2\bin\Debug\DelegateLesson2.pdb
+C:\Users\AM\source\repos\DelegateLesson\DelegateLesson2\obj\Debug\DelegateLesson2.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\DelegateLesson\DelegateLesson2\obj\Debug\DelegateLesson2.exe
+C:\Users\AM\source\repos\DelegateLesson\DelegateLesson2\obj\Debug\DelegateLesson2.pdb

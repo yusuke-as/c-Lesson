@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\MethodLesson1\MethodLesson1\bin\Debug\MethodLesson1.exe.config
+C:\Users\AM\source\repos\MethodLesson1\MethodLesson1\bin\Debug\MethodLesson1.exe
+C:\Users\AM\source\repos\MethodLesson1\MethodLesson1\bin\Debug\MethodLesson1.pdb
+C:\Users\AM\source\repos\MethodLesson1\MethodLesson1\obj\Debug\MethodLesson1.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\MethodLesson1\MethodLesson1\obj\Debug\MethodLesson1.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\MethodLesson1\MethodLesson1\obj\Debug\MethodLesson1.exe
+C:\Users\AM\source\repos\MethodLesson1\MethodLesson1\obj\Debug\MethodLesson1.pdb

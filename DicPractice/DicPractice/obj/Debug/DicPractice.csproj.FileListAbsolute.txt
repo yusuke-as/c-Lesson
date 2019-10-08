@@ -1,0 +1,6 @@
+C:\Users\AM\source\repos\DicPractice\DicPractice\bin\Debug\DicPractice.exe.config
+C:\Users\AM\source\repos\DicPractice\DicPractice\bin\Debug\DicPractice.exe
+C:\Users\AM\source\repos\DicPractice\DicPractice\bin\Debug\DicPractice.pdb
+C:\Users\AM\source\repos\DicPractice\DicPractice\obj\Debug\DicPractice.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\DicPractice\DicPractice\obj\Debug\DicPractice.exe
+C:\Users\AM\source\repos\DicPractice\DicPractice\obj\Debug\DicPractice.pdb

@@ -1,0 +1,6 @@
+C:\Users\AM\source\repos\IndexerLesson\IndexerLesson2\bin\Debug\IndexerLesson2.exe.config
+C:\Users\AM\source\repos\IndexerLesson\IndexerLesson2\bin\Debug\IndexerLesson2.exe
+C:\Users\AM\source\repos\IndexerLesson\IndexerLesson2\bin\Debug\IndexerLesson2.pdb
+C:\Users\AM\source\repos\IndexerLesson\IndexerLesson2\obj\Debug\IndexerLesson2.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\IndexerLesson\IndexerLesson2\obj\Debug\IndexerLesson2.exe
+C:\Users\AM\source\repos\IndexerLesson\IndexerLesson2\obj\Debug\IndexerLesson2.pdb

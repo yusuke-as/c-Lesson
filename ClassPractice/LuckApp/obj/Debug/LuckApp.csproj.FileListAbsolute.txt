@@ -1,0 +1,6 @@
+C:\Users\AM\source\repos\ClassPractice\LuckApp\bin\Debug\LuckApp.exe.config
+C:\Users\AM\source\repos\ClassPractice\LuckApp\bin\Debug\LuckApp.exe
+C:\Users\AM\source\repos\ClassPractice\LuckApp\bin\Debug\LuckApp.pdb
+C:\Users\AM\source\repos\ClassPractice\LuckApp\obj\Debug\LuckApp.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\ClassPractice\LuckApp\obj\Debug\LuckApp.exe
+C:\Users\AM\source\repos\ClassPractice\LuckApp\obj\Debug\LuckApp.pdb

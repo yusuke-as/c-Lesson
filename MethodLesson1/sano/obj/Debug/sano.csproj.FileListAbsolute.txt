@@ -1,0 +1,6 @@
+C:\Users\AM\source\repos\MethodLesson1\sano\bin\Debug\sano.exe.config
+C:\Users\AM\source\repos\MethodLesson1\sano\bin\Debug\sano.exe
+C:\Users\AM\source\repos\MethodLesson1\sano\bin\Debug\sano.pdb
+C:\Users\AM\source\repos\MethodLesson1\sano\obj\Debug\sano.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\MethodLesson1\sano\obj\Debug\sano.exe
+C:\Users\AM\source\repos\MethodLesson1\sano\obj\Debug\sano.pdb

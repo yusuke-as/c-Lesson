@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\ExtendsLesson\KartGame\bin\Debug\KartGame.exe.config
+C:\Users\AM\source\repos\ExtendsLesson\KartGame\bin\Debug\KartGame.exe
+C:\Users\AM\source\repos\ExtendsLesson\KartGame\bin\Debug\KartGame.pdb
+C:\Users\AM\source\repos\ExtendsLesson\KartGame\obj\Debug\KartGame.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\ExtendsLesson\KartGame\obj\Debug\KartGame.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\ExtendsLesson\KartGame\obj\Debug\KartGame.exe
+C:\Users\AM\source\repos\ExtendsLesson\KartGame\obj\Debug\KartGame.pdb

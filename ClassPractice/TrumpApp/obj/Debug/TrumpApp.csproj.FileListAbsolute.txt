@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\ClassPractice\TrumpApp\bin\Debug\TrumpApp.exe.config
+C:\Users\AM\source\repos\ClassPractice\TrumpApp\bin\Debug\TrumpApp.exe
+C:\Users\AM\source\repos\ClassPractice\TrumpApp\bin\Debug\TrumpApp.pdb
+C:\Users\AM\source\repos\ClassPractice\TrumpApp\obj\Debug\TrumpApp.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\ClassPractice\TrumpApp\obj\Debug\TrumpApp.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\ClassPractice\TrumpApp\obj\Debug\TrumpApp.exe
+C:\Users\AM\source\repos\ClassPractice\TrumpApp\obj\Debug\TrumpApp.pdb

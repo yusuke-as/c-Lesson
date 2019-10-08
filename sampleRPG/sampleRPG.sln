@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sampleRPG", "sampleRPG\sampleRPG.csproj", "{0560ABB6-432B-4CEA-A38A-AA9F10B1305F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomatoGame", "TomatoGame\TomatoGame.csproj", "{5F8B81BC-2878-49D5-83A7-A0DF4778CEC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0560ABB6-432B-4CEA-A38A-AA9F10B1305F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0560ABB6-432B-4CEA-A38A-AA9F10B1305F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0560ABB6-432B-4CEA-A38A-AA9F10B1305F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0560ABB6-432B-4CEA-A38A-AA9F10B1305F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F8B81BC-2878-49D5-83A7-A0DF4778CEC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8B81BC-2878-49D5-83A7-A0DF4778CEC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8B81BC-2878-49D5-83A7-A0DF4778CEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8B81BC-2878-49D5-83A7-A0DF4778CEC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {079FC713-FF88-4F70-B59B-6B33432748AF}
+	EndGlobalSection
+EndGlobal

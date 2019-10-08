@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\sampleRPG\sampleRPG\bin\Debug\sampleRPG.exe.config
+C:\Users\AM\source\repos\sampleRPG\sampleRPG\bin\Debug\sampleRPG.exe
+C:\Users\AM\source\repos\sampleRPG\sampleRPG\bin\Debug\sampleRPG.pdb
+C:\Users\AM\source\repos\sampleRPG\sampleRPG\obj\Debug\sampleRPG.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\sampleRPG\sampleRPG\obj\Debug\sampleRPG.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\sampleRPG\sampleRPG\obj\Debug\sampleRPG.exe
+C:\Users\AM\source\repos\sampleRPG\sampleRPG\obj\Debug\sampleRPG.pdb

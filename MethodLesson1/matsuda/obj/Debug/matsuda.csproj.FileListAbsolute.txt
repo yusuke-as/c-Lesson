@@ -1,0 +1,6 @@
+C:\Users\AM\source\repos\MethodLesson1\matsuda\bin\Debug\matsuda.exe.config
+C:\Users\AM\source\repos\MethodLesson1\matsuda\bin\Debug\matsuda.exe
+C:\Users\AM\source\repos\MethodLesson1\matsuda\bin\Debug\matsuda.pdb
+C:\Users\AM\source\repos\MethodLesson1\matsuda\obj\Debug\matsuda.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\MethodLesson1\matsuda\obj\Debug\matsuda.exe
+C:\Users\AM\source\repos\MethodLesson1\matsuda\obj\Debug\matsuda.pdb

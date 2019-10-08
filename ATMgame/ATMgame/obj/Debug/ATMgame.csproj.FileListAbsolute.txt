@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\ATMgame\ATMgame\bin\Debug\ATMgame.exe.config
+C:\Users\AM\source\repos\ATMgame\ATMgame\bin\Debug\ATMgame.exe
+C:\Users\AM\source\repos\ATMgame\ATMgame\bin\Debug\ATMgame.pdb
+C:\Users\AM\source\repos\ATMgame\ATMgame\obj\Debug\ATMgame.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\ATMgame\ATMgame\obj\Debug\ATMgame.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\ATMgame\ATMgame\obj\Debug\ATMgame.exe
+C:\Users\AM\source\repos\ATMgame\ATMgame\obj\Debug\ATMgame.pdb

@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\MethodLesson1\yamada\bin\Debug\yamada.exe.config
+C:\Users\AM\source\repos\MethodLesson1\yamada\bin\Debug\yamada.exe
+C:\Users\AM\source\repos\MethodLesson1\yamada\bin\Debug\yamada.pdb
+C:\Users\AM\source\repos\MethodLesson1\yamada\obj\Debug\yamada.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\MethodLesson1\yamada\obj\Debug\yamada.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\MethodLesson1\yamada\obj\Debug\yamada.exe
+C:\Users\AM\source\repos\MethodLesson1\yamada\obj\Debug\yamada.pdb

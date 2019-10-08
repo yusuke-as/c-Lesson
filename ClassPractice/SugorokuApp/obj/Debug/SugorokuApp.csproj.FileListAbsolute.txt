@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\ClassPractice\SugorokuApp\bin\Debug\SugorokuApp.exe.config
+C:\Users\AM\source\repos\ClassPractice\SugorokuApp\bin\Debug\SugorokuApp.exe
+C:\Users\AM\source\repos\ClassPractice\SugorokuApp\bin\Debug\SugorokuApp.pdb
+C:\Users\AM\source\repos\ClassPractice\SugorokuApp\obj\Debug\SugorokuApp.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\ClassPractice\SugorokuApp\obj\Debug\SugorokuApp.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\ClassPractice\SugorokuApp\obj\Debug\SugorokuApp.exe
+C:\Users\AM\source\repos\ClassPractice\SugorokuApp\obj\Debug\SugorokuApp.pdb

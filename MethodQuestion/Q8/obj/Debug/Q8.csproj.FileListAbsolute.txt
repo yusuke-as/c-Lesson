@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\MethodQuestion\Q8\bin\Debug\Q8.exe.config
+C:\Users\AM\source\repos\MethodQuestion\Q8\bin\Debug\Q8.exe
+C:\Users\AM\source\repos\MethodQuestion\Q8\bin\Debug\Q8.pdb
+C:\Users\AM\source\repos\MethodQuestion\Q8\obj\Debug\Q8.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\MethodQuestion\Q8\obj\Debug\Q8.exe
+C:\Users\AM\source\repos\MethodQuestion\Q8\obj\Debug\Q8.pdb
+C:\Users\AM\source\repos\MethodQuestion\Q8\obj\Debug\Q8.csprojAssemblyReference.cache

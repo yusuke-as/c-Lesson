@@ -1,0 +1,6 @@
+C:\Users\AM\source\repos\ClassLesson\Monkey\obj\Debug\MonkeyApp.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\ClassLesson\Monkey\bin\Debug\Monkey.exe.config
+C:\Users\AM\source\repos\ClassLesson\Monkey\bin\Debug\Monkey.exe
+C:\Users\AM\source\repos\ClassLesson\Monkey\bin\Debug\Monkey.pdb
+C:\Users\AM\source\repos\ClassLesson\Monkey\obj\Debug\Monkey.exe
+C:\Users\AM\source\repos\ClassLesson\Monkey\obj\Debug\Monkey.pdb

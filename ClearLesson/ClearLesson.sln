@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearLesson", "ClearLesson\ClearLesson.csproj", "{31BE33D2-9407-4977-9E37-CDA7540C8E26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31BE33D2-9407-4977-9E37-CDA7540C8E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BE33D2-9407-4977-9E37-CDA7540C8E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BE33D2-9407-4977-9E37-CDA7540C8E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BE33D2-9407-4977-9E37-CDA7540C8E26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85C74387-3CD4-4C97-95B9-61522D14E285}
+	EndGlobalSection
+EndGlobal

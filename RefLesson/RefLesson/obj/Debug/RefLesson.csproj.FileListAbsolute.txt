@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\RefLesson\RefLesson\bin\Debug\RefLesson.exe.config
+C:\Users\AM\source\repos\RefLesson\RefLesson\bin\Debug\RefLesson.exe
+C:\Users\AM\source\repos\RefLesson\RefLesson\bin\Debug\RefLesson.pdb
+C:\Users\AM\source\repos\RefLesson\RefLesson\obj\Debug\RefLesson.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\RefLesson\RefLesson\obj\Debug\RefLesson.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\RefLesson\RefLesson\obj\Debug\RefLesson.exe
+C:\Users\AM\source\repos\RefLesson\RefLesson\obj\Debug\RefLesson.pdb

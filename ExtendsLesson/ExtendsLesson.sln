@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartGame", "KartGame\KartGame.csproj", "{BE00EC9B-76B6-4CD2-924C-A394A7A8C13C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShootingGame", "ShootingGame\ShootingGame.csproj", "{0094AFE8-18CC-4C7E-9453-C5CF95C42C43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceBasic", "InterfaceBasic\InterfaceBasic.csproj", "{61D55EBB-B09F-4AE9-8064-FB2420AABE8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract", "Abstract\Abstract.csproj", "{ED617A89-5E8E-4DD4-B0FA-0C85F7BAEE1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplatePattern", "TemplatePattern\TemplatePattern.csproj", "{AB03464C-0A33-4600-BE50-AF2C99F6602B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{B7D2A0C7-03B1-4837-A765-D95BC5F20AFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE00EC9B-76B6-4CD2-924C-A394A7A8C13C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE00EC9B-76B6-4CD2-924C-A394A7A8C13C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE00EC9B-76B6-4CD2-924C-A394A7A8C13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE00EC9B-76B6-4CD2-924C-A394A7A8C13C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0094AFE8-18CC-4C7E-9453-C5CF95C42C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0094AFE8-18CC-4C7E-9453-C5CF95C42C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0094AFE8-18CC-4C7E-9453-C5CF95C42C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0094AFE8-18CC-4C7E-9453-C5CF95C42C43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61D55EBB-B09F-4AE9-8064-FB2420AABE8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D55EBB-B09F-4AE9-8064-FB2420AABE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D55EBB-B09F-4AE9-8064-FB2420AABE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D55EBB-B09F-4AE9-8064-FB2420AABE8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED617A89-5E8E-4DD4-B0FA-0C85F7BAEE1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED617A89-5E8E-4DD4-B0FA-0C85F7BAEE1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED617A89-5E8E-4DD4-B0FA-0C85F7BAEE1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED617A89-5E8E-4DD4-B0FA-0C85F7BAEE1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB03464C-0A33-4600-BE50-AF2C99F6602B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB03464C-0A33-4600-BE50-AF2C99F6602B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB03464C-0A33-4600-BE50-AF2C99F6602B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB03464C-0A33-4600-BE50-AF2C99F6602B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D2A0C7-03B1-4837-A765-D95BC5F20AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D2A0C7-03B1-4837-A765-D95BC5F20AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D2A0C7-03B1-4837-A765-D95BC5F20AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D2A0C7-03B1-4837-A765-D95BC5F20AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A22D1F5-6060-4316-A0DD-8E9BF09C51A7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\ClassLesson\SugoroluApp\bin\Debug\SugoroluApp.exe.config
+C:\Users\AM\source\repos\ClassLesson\SugoroluApp\bin\Debug\SugoroluApp.exe
+C:\Users\AM\source\repos\ClassLesson\SugoroluApp\bin\Debug\SugoroluApp.pdb
+C:\Users\AM\source\repos\ClassLesson\SugoroluApp\obj\Debug\SugoroluApp.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\ClassLesson\SugoroluApp\obj\Debug\SugoroluApp.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\ClassLesson\SugoroluApp\obj\Debug\SugoroluApp.exe
+C:\Users\AM\source\repos\ClassLesson\SugoroluApp\obj\Debug\SugoroluApp.pdb

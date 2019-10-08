@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\SampleDraw\SampleDraw\bin\Debug\SampleDraw.exe.config
+C:\Users\AM\source\repos\SampleDraw\SampleDraw\bin\Debug\SampleDraw.exe
+C:\Users\AM\source\repos\SampleDraw\SampleDraw\bin\Debug\SampleDraw.pdb
+C:\Users\AM\source\repos\SampleDraw\SampleDraw\obj\Debug\SampleDraw.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\SampleDraw\SampleDraw\obj\Debug\SampleDraw.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\SampleDraw\SampleDraw\obj\Debug\SampleDraw.exe
+C:\Users\AM\source\repos\SampleDraw\SampleDraw\obj\Debug\SampleDraw.pdb
